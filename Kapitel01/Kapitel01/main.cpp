@@ -1,0 +1,20 @@
+// Aufgabe: to learn C++
+// Author: Yexing Geng
+// Datum: 07.09.2022
+
+#include<iostream>
+
+int main()
+{
+	int i = 50;
+	int sum = 0;
+	while (i <= 100)
+	{
+		sum += i;
+		++i;
+	}
+
+	std::cout<<sum<<std::endl;
+
+	return 0;
+}
