@@ -1,7 +1,7 @@
-﻿// Aufgabe: to learn C++
+﻿// Aufgabe: to learn C++, Übung 1.9
 // Autor: Yexing Geng
 // Datum: 07.09.2022
-// Übung: 1.9
+// Last Update: 08.09.2022
 
 #include<iostream>
 
